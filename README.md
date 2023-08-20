@@ -9,7 +9,7 @@
 
   **1.** The Objective is to create a dashboard for year 2021 and 2022 so that we have insight on the below requirements-
 
-  **2.** Create a Dashboard _[Road Accident Analysis Report](https://github.com/A-Sagarika97/Excel-Road-Accident-Analysis/blob/main/excel_project_Road_accident.pdf)_ that give insights about
+  **2.** Create a Dashboard _[Road Accident Analysis Report](https://github.com/Sagarika97/Excel-Project-Road-Accident-Analysis/blob/main/excel_project_Road_accident.pdf)_ that give insights about
   
      - [x]	Primary KPI's   - Total casualties taken place after the accident
 
